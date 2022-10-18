@@ -162,7 +162,7 @@ Trigger = Internal
 Cycles = As specified
 
 [DG]
-Scale = ±950 mV
+Scale = Â±950 mV
 Offset = 0 V
 Coupling = 50Ohm
 Bandwidth = FULL
